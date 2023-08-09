@@ -1,0 +1,12 @@
+body {
+
+    margin: 0;
+    padding: 10;
+}
+
+header {
+
+    text-align: center;
+    background-color: bisque;
+    padding: 20px;
+}
