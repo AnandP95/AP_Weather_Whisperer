@@ -6,12 +6,14 @@ body {
   
 }
 
+/* Style the header  here*/
 header {
   text-align: center;
   background-color: bisque;
   padding: 20px;
 }
 
+/*seta input field border, padding and font-size */
 #city-input {
   font-size: 30px;
   padding: 0.5rem;
@@ -20,9 +22,12 @@ header {
   margin-left: 25px;
 }
 
+
 .weather_dashboard {
   margin-top: 25px;
 }
+
+
 
 #search_box {
   display: flex;
@@ -31,6 +36,7 @@ header {
   margin-bottom: 2rem;
 }
 
+/* seta submit button color, padding and border-radius. */
 button {
   padding: 0.5rem 1rem;
   background-color: green;

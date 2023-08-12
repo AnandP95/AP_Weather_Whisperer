@@ -50,7 +50,7 @@ For doing this challenges , first i install the VS Code developer tool to edit a
 2. Open the "index.html" file in your browser. 
 3. Enter the name of a city in the search input and click the "Search" button to get weather information
 4. The current weather details and a 5-day forecast will be displayed.
-5. here is demo of app : ![Weather Application  ](Assets/05-third-party-apis-homework-demo.gif)
+5. here is demo of app : ![Weather Application  ](Assets/Images/AP_Weather_Whisperer.gif)
 
 
 
@@ -69,7 +69,7 @@ For doing this challenges , first i install the VS Code developer tool to edit a
 
  ## view concept 
  
-
+ Deployed the application from here:[https://anandp95.github.io/AP_Weather_Whisperer/]
  
 ## License
 N/A
